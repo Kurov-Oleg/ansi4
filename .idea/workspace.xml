@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d7fbb71a-f3ad-45d8-9333-be9e195f6fb0" name="Changes" comment="t">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/playbook/filebeat-role/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/playbook/filebeat-role/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/playbook/filebeat-role/defaults/main.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/playbook/filebeat-role/handlers/main.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/playbook/filebeat-role/meta/main.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/playbook/filebeat-role/tasks/configure.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/playbook/filebeat-role/tasks/download_apt.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/playbook/filebeat-role/tasks/download_yum.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/playbook/filebeat-role/tasks/install_apt.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/playbook/filebeat-role/tasks/install_yum.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/playbook/filebeat-role/tasks/load_kibana.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/playbook/filebeat-role/tasks/main.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/playbook/filebeat-role/tasks/precheck.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/playbook/filebeat-role/tasks/set_systemwork.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/playbook/filebeat-role/templates/filebeat.yml.j2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/playbook/filebeat-role/tests/inventory" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/playbook/filebeat-role/tests/test.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/playbook/filebeat-role/vars/main.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/playbook/kibana-role/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/playbook/kibana-role/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/playbook/kibana-role/defaults/main.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/playbook/kibana-role/handlers/main.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/playbook/kibana-role/meta/main.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/playbook/kibana-role/tasks/configure.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/playbook/kibana-role/tasks/download_apt.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/playbook/kibana-role/tasks/download_yum.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/playbook/kibana-role/tasks/install_apt.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/playbook/kibana-role/tasks/install_yum.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/playbook/kibana-role/tasks/main.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/playbook/kibana-role/tasks/precheck.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/playbook/kibana-role/templates/kibana.yml.j2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/playbook/kibana-role/tests/inventory" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/playbook/kibana-role/tests/test.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/playbook/kibana-role/vars/main.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/playbook/requirements.yml" beforeDir="false" afterPath="$PROJECT_DIR$/playbook/requirements.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/playbook/site.yml" beforeDir="false" afterPath="$PROJECT_DIR$/playbook/site.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1y0JxWV9eOBosMiKrgnh4ZKMuR1" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/playbook/filebeat-role/tasks" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/playbook/filebeat-role/tasks" />
+      <recent name="$PROJECT_DIR$/playbook/kibana-role/tasks" />
+      <recent name="$PROJECT_DIR$/playbook/filebeat-role/templates" />
+      <recent name="$PROJECT_DIR$/playbook/kibana-role/templates" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7fbb71a-f3ad-45d8-9333-be9e195f6fb0" name="Changes" comment="" />
+      <created>1631382818567</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631382818567</updated>
+    </task>
+    <task id="LOCAL-00001" summary="t">
+      <created>1631385376805</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1631385376805</updated>
+    </task>
+    <task id="LOCAL-00002" summary="t">
+      <created>1631385487526</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1631385487526</updated>
+    </task>
+    <task id="LOCAL-00003" summary="t">
+      <created>1631387150596</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1631387150596</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="t" />
+    <option name="LAST_COMMIT_MESSAGE" value="t" />
+  </component>
+</project>
